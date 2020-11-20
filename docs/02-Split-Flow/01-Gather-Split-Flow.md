@@ -4,7 +4,7 @@
 
 ## 1-1. Gather Input on Call ウィジェットを追加する
 
-`Gather Input on Call`ウィジェットを追加し、先ほど設定した`Greeting`の`Aduto Complete`と接続します。このウィジェットはメッセージを流すだけでなく、キーの入力や音声入力を取得できます。
+`Gather Input on Call`ウィジェットを追加し、先ほど設定した`Greeting`の`Audio Complete`と接続します。このウィジェットはメッセージを流すだけでなく、キーの入力や音声入力を取得できます。
 
 ![Greeting-Gather](../assets/02-Gather.png)
 
