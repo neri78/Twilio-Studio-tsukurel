@@ -10,6 +10,8 @@ Twilioアカウントが必要になります。事前に案内されたリン�
 
 [Twilioコンソール](https://jp.twilio.com/console)にサインインし、画面左のナビゲーションから[Studio](https://jp.twilio.com/console/studio)を選択します。
 
+![コンソール](../assets/01-Console.png)
+
 [Studioダッシュボード](https://jp.twilio.com/console/studio/dashboard)が表示されます。初めてフローを作成する場合は`Create a flow`ボタンをクリックします。以前に作成したことがある場合は既存のフロー一覧が表示されている状態で`+`ボタンをクリックします。
 
 - 初めてフローを作成する場合  

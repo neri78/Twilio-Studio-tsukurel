@@ -28,7 +28,7 @@
 ![番号設定画面](../assets/01-Number-Settings.png)
 
 
-すでに番号を持っている場合は、[アクティブな電話番号ページ](https://www.twilio.com/console/phone-numbers/incoming)で表示される電話番号をクリックします。
+すでに番号を持っている場合は、[アクティブな電話番号ページ](https://jp.twilio.com/console/phone-numbers/incoming)で表示される電話番号をクリックします。
 
 
 設定画面の`Voice & Fax`セクションの`A CALL COMES IN`項目を設定します。
@@ -53,4 +53,4 @@
 
 ## 次のハンズオン
 
-[ハンズオン: 発信者の入力に合わせたフローの分岐](/docs/02-Split-Flow/00-Overview.md)
+[ハンズオン: 相談員とAI、あなたはどちら](/docs/02-Split-Flow/00-Overview.md)
